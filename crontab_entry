@@ -1,0 +1,1 @@
+10 */2 * * * /bin/bash /path/to/torblock.sh
